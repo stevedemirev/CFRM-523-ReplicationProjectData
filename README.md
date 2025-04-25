@@ -1,6 +1,6 @@
 # CFRM-523-ReplicationProjectData
 
-This repository contains 3 seperate datasets for QQQ and TQQQ used in my replication paper. They have slight differences between them, but will produce different results so decide how you would like to test the strategy wisely.
+This repository contains 3 seperate datasets for QQQ and TQQQ used in my replication paper. They have slight differences between them, but produce different results so decide how you would like to test the strategy wisely.
 
 The 'gaps_removed' datasets skips any days with missing datapoints by removing the data for that day completely.(Method 1 and used in the replication paper)
 
